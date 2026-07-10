@@ -93,7 +93,7 @@ compile_and_show(current_code)
 current_code = refine_tikz(current_code, "Add blue color to the Lexer and Parser nodes")
 compile_and_show(current_code)
 ```
-
+.
 **State machine:**
 ```python
 current_code = generate_tikz(
